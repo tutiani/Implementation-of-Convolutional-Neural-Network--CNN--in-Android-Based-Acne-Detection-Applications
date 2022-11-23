@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Miupimp</string>
+    <string name="start">Check Level Pimple</string>
+    <string name="tv_take_photo">Take photo</string>
+    <string name="tv_description">Select a preset image or take a new photo</string>
+    <string name="tv_placeholder">Detect your acne </string>
+    <string name="result">About Pimple</string>
+    <string name="about">About App</string>
+    <string name="app">Miupimp merupakan aplikasi deteksi objek yang dapat mendeteksi penilaian jerawat serta beberapa jenis jerawat menggunakan fitur kamera pada smartphone secara real-time. Setelah objek berhasil dideteksi maka akan menampilkan hasil deteksi pada aplikasi.</string>
+    <string name="grade">Tingkat Keparahan Jerawat dibagi menjadi 3 level yaitu level 0, level 1, dan level 2.\nPengobatan untuk mengurangi keparahan jerawat dapat dilakukan melalui pendekatan  yang bergantung pada tingkat keparahan jerawat, preferensi pengobatan dan usia, serta respons kulit terhadap pengobatan sebelumnya</string>
+</resources>
